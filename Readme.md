@@ -2,7 +2,7 @@
 - Use Terraform to build a infrastructure with AWS provider.
 - You will build a infrastructure with nginx based on EC2 instance and load balancer.
 - You can access your `<subdomain name>.<domain name>` with http and https to see the nginx welcome page after applying the code and waiting around 10 minutes.
-![image](https://adc.github.trendmicro.com/balin-lin/terraform-tutorial/blob/main/AWS%20Lab%20Architecture.png)
+![image](https://github.com/BalinLin/cloudnginx/blob/main/AWS%20Lab%20Architecture.png)
 
 ## Terraform command to run this project
 ```bash
