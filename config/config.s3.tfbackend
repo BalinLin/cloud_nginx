@@ -1,0 +1,4 @@
+bucket  = "" # Should be manually created before running this code
+region  = "ap-northeast-1"
+key     = "" # Where to save tfstate
+profile = ""
